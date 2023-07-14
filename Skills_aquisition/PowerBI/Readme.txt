@@ -1,0 +1,1 @@
+https://learn.microsoft.com/pl-pl/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm
