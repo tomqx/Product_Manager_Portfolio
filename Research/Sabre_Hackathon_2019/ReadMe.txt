@@ -1,0 +1,2 @@
+Again with a group of TPMs we have improved idea from last year focusing our direction on making use of sales data from Teradata and calculate probability of people buying air extras regardless of route and having the score all the time without the need to be triggered by an actual search for travel.
+This alternative could allow creating marketing campains and could be helpful for airline to assess how big of a group would be likely to buy air extras.
